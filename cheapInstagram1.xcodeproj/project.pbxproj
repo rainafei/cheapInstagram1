@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		18EF62E922F0833100A906FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EF62E822F0833100A906FC /* AppDelegate.swift */; };
-		18EF62EB22F0833100A906FC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EF62EA22F0833100A906FC /* ViewController.swift */; };
 		18EF62EE22F0833100A906FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EF62EC22F0833100A906FC /* Main.storyboard */; };
 		18EF62F122F0833100A906FC /* cheapInstagram1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18EF62EF22F0833100A906FC /* cheapInstagram1.xcdatamodeld */; };
 		18EF62F322F0833400A906FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EF62F222F0833400A906FC /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		18EF62E522F0833100A906FC /* cheapInstagram1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cheapInstagram1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EF62E822F0833100A906FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		18EF62EA22F0833100A906FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		18EF62ED22F0833100A906FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18EF62F022F0833100A906FC /* cheapInstagram1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = cheapInstagram1.xcdatamodel; sourceTree = "<group>"; };
 		18EF62F222F0833400A906FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				18EF62E822F0833100A906FC /* AppDelegate.swift */,
-				18EF62EA22F0833100A906FC /* ViewController.swift */,
 				18EF62EC22F0833100A906FC /* Main.storyboard */,
 				18EF62F222F0833400A906FC /* Assets.xcassets */,
 				18EF62F422F0833400A906FC /* LaunchScreen.storyboard */,
@@ -138,7 +135,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18EF62EB22F0833100A906FC /* ViewController.swift in Sources */,
 				18EF62E922F0833100A906FC /* AppDelegate.swift in Sources */,
 				18EF62F122F0833100A906FC /* cheapInstagram1.xcdatamodeld in Sources */,
 			);
