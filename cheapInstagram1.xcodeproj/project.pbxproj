@@ -12,6 +12,7 @@
 		18EF62F122F0833100A906FC /* cheapInstagram1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18EF62EF22F0833100A906FC /* cheapInstagram1.xcdatamodeld */; };
 		18EF62F322F0833400A906FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EF62F222F0833400A906FC /* Assets.xcassets */; };
 		18EF62F622F0833400A906FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EF62F422F0833400A906FC /* LaunchScreen.storyboard */; };
+		18EF62FE22F08A2400A906FC /* newPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EF62FD22F08A2400A906FC /* newPhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		18EF62F222F0833400A906FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18EF62F522F0833400A906FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18EF62F722F0833400A906FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18EF62FD22F08A2400A906FC /* newPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newPhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				18EF62E822F0833100A906FC /* AppDelegate.swift */,
 				18EF62EC22F0833100A906FC /* Main.storyboard */,
+				18EF62FD22F08A2400A906FC /* newPhotoViewController.swift */,
 				18EF62F222F0833400A906FC /* Assets.xcassets */,
 				18EF62F422F0833400A906FC /* LaunchScreen.storyboard */,
 				18EF62F722F0833400A906FC /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				18EF62E922F0833100A906FC /* AppDelegate.swift in Sources */,
 				18EF62F122F0833100A906FC /* cheapInstagram1.xcdatamodeld in Sources */,
+				18EF62FE22F08A2400A906FC /* newPhotoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
